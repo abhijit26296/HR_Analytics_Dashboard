@@ -1,6 +1,7 @@
 # **📊 HR Analytics Dashboard: Exploratory Data Analysis (EDA) for Employee Attrition Insights 🚀**  
 ---
-![Uploading HR_Analytics_Dashboard.png…]()
+![HR_Analytics_Dashboard](https://github.com/user-attachments/assets/b016ca85-36ac-495a-8eae-443e0307a12a)
+
 
 ### **📌 Overview**  
 This project analyzes employee attrition trends using an HR Analytics Dashboard to help organizations improve retention strategies. The dashboard highlights key metrics like attrition rates, demographic patterns, job role impacts, and salary correlations—enabling data-driven decisions to reduce turnover and enhance workplace satisfaction.  
